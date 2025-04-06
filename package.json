@@ -1,0 +1,26 @@
+{
+  "name": "delinked",
+  "version": "1.0.0",
+  "description": "A decentralized career identity platform that combats professional fraud by anchoring user experiences—such as employment history, certifications, and education records—on the blockchain.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Leelakrishna2091997/DeLinked.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Leelakrishna2091997/DeLinked/issues"
+  },
+  "homepage": "https://github.com/Leelakrishna2091997/DeLinked#readme",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "ethers": "^5.7.2",
+    "express": "^5.1.0",
+    "solc": "^0.8.29"
+  }
+}

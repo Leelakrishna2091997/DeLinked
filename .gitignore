@@ -1,0 +1,6 @@
+# Node modules (always ignore this)
+node_modules/
+
+# dotenv files (contains secrets like private keys, API keys)
+.env
+.env.local
